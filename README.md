@@ -12,8 +12,6 @@
 ## House price prediction
 * Customer Churn, also known as customer attrition, customer turnover, or customer defection, in the loss of clients or customers.Bank, insurance companies, streaming services companies and telcom service companies, often use customer churn analysis and customer churn rates as one of their key business metrics because the cost of retaining existing customers is far less than acquiring a new one.
 
-This analysis focuses on the behavior of bank customers who are more likely to leave the bank (i.e. close their bank account). I want to find out the most striking behaviors of customers through Exploratory Data Analysis and later on use some of the predictive analytics techniques to determine the customers who are most likely to churn.
-
 * Considering the data provided, try to use the neural network to predict the customers who are most likely to churn.
 
 

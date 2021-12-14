@@ -47,13 +47,17 @@
 * [customer_churn](./customer_churn)
 
     * Attributes:
+        * RowNumber: the index of row
+        * CustomerId: the id of customer
+        * Surname: the surname of customer
         * CreditScore: the range of credit score is from 350 to 850
         * Geography: the regional bank has customers from three countries: France, Germany and Spain
+        * Gender: the gender of customer: Female, Male
         * Age: the range of customer’s age is from 18 to 92
         * Tenure: years that the customer has stayed with the bank
         * Balance: the amount of money available for withdrawal
         * NumOfProducts: number of products that the customers use in the bank
+        * HasCrCard: whether the customer has credit card, 1 indicates has.
         * IsActiveMember: 1 indicates is active
         * EstimatedSalary: customer’s self-reported annual salary
         * Exited: whether the customer has churned (closed the bank account), 1 indicates churn.
-

@@ -38,7 +38,7 @@
         * sqft_lot15 : LotSize area in 2015(implies-- some renovations)
 
 
-## House price prediction
+## Customer churn prediction
 * Customer Churn, also known as customer attrition, customer turnover, or customer defection, in the loss of clients or customers.Bank, insurance companies, streaming services companies and telcom service companies, often use customer churn analysis and customer churn rates as one of their key business metrics because the cost of retaining existing customers is far less than acquiring a new one.
 
 * Considering the data provided, try to use the neural network to predict the customers who are most likely to churn.

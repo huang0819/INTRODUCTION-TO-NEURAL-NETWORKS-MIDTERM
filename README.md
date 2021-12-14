@@ -1,5 +1,10 @@
 # INTRODUCTION-TO-NEURAL-NETWORKS-MIDTERM
 
+* You can click Code -> Download Zip to get files or excute the following command
+```
+!git clone https://github.com/huang0819/INTRODUCTION-TO-NEURAL-NETWORKS-MIDTERM.git
+```
+
 ## House price prediction
 * The real estate markets, like those in Sydney and Melbourne, present an interesting opportunity for data analysts to analyze and predict where property prices are moving towards. Prediction of property prices is becoming increasingly important and beneficial. Property prices are a good indicator of both the overall market condition and the economic health of a country. 
 

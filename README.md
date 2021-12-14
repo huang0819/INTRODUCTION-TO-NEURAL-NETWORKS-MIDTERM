@@ -1,6 +1,6 @@
 # INTRODUCTION-TO-NEURAL-NETWORKS-MIDTERM
 
-* You can click Code -> Download Zip to get files or excute the following command
+* You can click Code -> Download Zip to get files or excute the following command in colab
 ```
 !git clone https://github.com/huang0819/INTRODUCTION-TO-NEURAL-NETWORKS-MIDTERM.git
 ```
